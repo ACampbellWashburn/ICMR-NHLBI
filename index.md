@@ -1,7 +1,3 @@
-layout: page
-title: "ICMR-NHLBI"
-permalink: /ICMR-NHLBI/
-
 # ICMR test page
 
 ## Previous ICMR courses: 
