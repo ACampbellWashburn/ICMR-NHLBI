@@ -1,6 +1,6 @@
-## ICMR test page
+# ICMR test page
 
-# Previous ICMR courses: 
+## Previous ICMR courses: 
 
-[2020](https://github.com/ACampbellWashburn/ICMR-NHLBI/tree/gh-pages/2020.md)
-[2019](https://github.com/ACampbellWashburn/ICMR-NHLBI/tree/gh-pages/2019.md)
+ICMR [2020](https://github.com/ACampbellWashburn/ICMR-NHLBI/tree/gh-pages/2020.md)
+ICMR [2019](https://github.com/ACampbellWashburn/ICMR-NHLBI/tree/gh-pages/2019.md)
